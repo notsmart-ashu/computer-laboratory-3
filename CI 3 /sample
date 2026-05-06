@@ -1,0 +1,22 @@
+Fuzzy Set A = [0.2, 0.5, 0.7, 0.9]
+Fuzzy Set B = [0.3, 0.6, 0.4, 0.8]
+
+Union of A and B = [0.3, 0.6, 0.7, 0.9]
+
+Intersection of A and B = [0.2, 0.5, 0.4, 0.8]
+
+Complement of A = [0.8, 0.5, 0.3, 0.1]
+
+Difference A-B = [0.2, 0.4, 0.6, 0.2]
+
+Cartesian Product Relation R:
+[[0.2 0.2 0.2 0.2]
+ [0.3 0.5 0.4 0.5]
+ [0.3 0.6 0.4 0.7]
+ [0.3 0.6 0.4 0.8]]
+
+Max-Min Composition:
+[[0.2 0.2 0.2]
+ [0.5 0.5 0.5]
+ [0.6 0.4 0.6]
+ [0.6 0.4 0.7]]
