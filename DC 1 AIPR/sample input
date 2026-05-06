@@ -1,0 +1,12 @@
+Enter crack length: 8
+Enter vibration level: 82
+
+output-
+Predicted Classes = [1 0]
+Actual Classes = [1 0]
+
+Accuracy = 100.0 %
+
+Enter structure details for prediction
+
+Structure Status: Damaged
