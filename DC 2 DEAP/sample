@@ -1,0 +1,22 @@
+pip install deap
+
+input-
+Enter population size: 5
+Enter number of generations: 10
+
+output-
+gen	nevals
+0  	5
+1  	4
+2  	3
+3  	2
+4  	4
+5  	3
+6  	2
+7  	4
+8  	3
+9  	2
+10 	3
+
+Best Individual = 10
+Best Fitness = 100
