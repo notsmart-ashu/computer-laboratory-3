@@ -1,0 +1,30 @@
+input
+Enter number of servers: 3
+Enter number of client requests: 10
+
+Choose Load Balancing Algorithm
+1. Round Robin
+2. Least Connections
+3. Random Selection
+
+Enter your choice: 1
+
+output-
+--- Round Robin Load Balancing ---
+
+Request 1 assigned to Server 1
+Request 2 assigned to Server 2
+Request 3 assigned to Server 3
+Request 4 assigned to Server 1
+Request 5 assigned to Server 2
+Request 6 assigned to Server 3
+Request 7 assigned to Server 1
+Request 8 assigned to Server 2
+Request 9 assigned to Server 3
+Request 10 assigned to Server 1
+
+Final Server Loads
+
+Server 1 Load = 4
+Server 2 Load = 3
+Server 3 Load = 3
