@@ -1,0 +1,20 @@
+first install libraries
+pip install tensorflow matplotlib pillow numpy
+
+
+You need:
+
+Content Image
+Example: Person, building, landscape
+Style Image
+Example: Painting, sketch, abstract art
+
+project_folder/
+│
+├── neural_style_transfer.py
+├── content.jpg
+└── style.jpg
+
+input-
+Enter content image path: content.jpg
+Enter style image path: style.jpg
