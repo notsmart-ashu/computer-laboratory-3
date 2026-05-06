@@ -1,0 +1,39 @@
+Input-
+Enter number of weather records: 6
+
+Enter data in format: Year Temperature
+
+Enter Year: 2020
+Enter Temperature: 30
+
+Enter Year: 2020
+Enter Temperature: 35
+
+Enter Year: 2021
+Enter Temperature: 40
+
+Enter Year: 2021
+Enter Temperature: 38
+
+Enter Year: 2022
+Enter Temperature: 25
+
+Enter Year: 2022
+Enter Temperature: 28
+
+
+output-
+Mapped Data:
+[(2020, 30), (2020, 35), (2021, 40), (2021, 38), (2022, 25), (2022, 28)]
+
+Yearly Average Temperatures:
+
+2020 -> 32.50
+2021 -> 39.00
+2022 -> 26.50
+
+Hottest Year:
+2021 with Average Temperature = 39.0
+
+Coolest Year:
+2022 with Average Temperature = 26.5
