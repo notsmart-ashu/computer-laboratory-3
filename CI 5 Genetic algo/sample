@@ -1,0 +1,20 @@
+Input-
+Enter population size: 5
+Enter mutation rate (0 to 1): 0.3
+Enter number of generations: 10
+
+output-
+Generation 1
+Best Fitness = 0.00042
+Best Parameters = [0.42 0.91]
+
+Generation 2
+Best Fitness = 0.00051
+Best Parameters = [0.48 0.95]
+
+Generation 3
+Best Fitness = 0.00063
+Best Parameters = [0.53 1.01]
+
+Optimized Parameters:
+[0.74 1.25]
