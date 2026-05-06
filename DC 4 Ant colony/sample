@@ -1,0 +1,24 @@
+Sample Input
+Enter number of ants: 5
+Enter number of iterations: 3
+
+Sample Output
+Iteration 1
+
+Ant 1 Route = [0, 1, 3, 2]
+Distance = 80
+
+Ant 2 Route = [2, 0, 1, 3]
+Distance = 80
+
+Ant 3 Route = [1, 0, 2, 3]
+Distance = 80
+
+Iteration 2
+
+Ant 1 Route = [0, 2, 3, 1]
+Distance = 80
+
+Best Route Found = [0, 1, 3, 2]
+
+Minimum Distance = 80
