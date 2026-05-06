@@ -1,0 +1,14 @@
+first run the server and then run the client
+server-
+Server started on port 8000...
+Received: ashuuu and toshh
+
+Client-
+1. Concatenate Strings
+2. Exit and Stop Server
+
+Enter your choice: 1
+Enter first string: ashuuu
+Enter second string: toshh
+
+Concatenated String = ashuuu toshh
