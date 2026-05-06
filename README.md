@@ -1,0 +1,1 @@
+Every folder contains the code in python and also has a sample file so that u can have an idea about how give inputs and expect respective output don't try to be oversmart also if external asks for any changes like make it so that user could input values just reply with it is very complicated and better to be done this way
