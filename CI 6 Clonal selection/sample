@@ -1,0 +1,24 @@
+Input-
+Enter population size: 5
+Enter number of generations: 5
+Enter clone factor: 4
+Enter mutation rate (0 to 1): 0.5
+
+output-
+Initial Population:
+[5, 12, 7, 15, 9]
+
+Generation 1
+Best Antibody = 15
+Best Fitness = 225
+Clones = [15, 15, 15, 15]
+Mutated Clones = [16, 15, 14, 17]
+
+Generation 2
+Best Antibody = 17
+Best Fitness = 289
+Clones = [17, 17, 17, 17]
+Mutated Clones = [18, 17, 16, 19]
+
+Final Best Solution = 19
+Final Best Fitness = 361
